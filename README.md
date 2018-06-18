@@ -39,9 +39,9 @@ samples\b3.jpg: 0.7316
 samples\b4.jpg: 2.2222
 ```
 A sample of these images:
-![](samples/a1.jpeg! width=100)
-![](samples/a2.jpeg! width=100)
-![](samples/b1.jpeg! width=100)
-![](samples/b2.jpeg! width=100)
+![](samples/a1.jpeg|width=100)
+![](samples/a2.jpeg|width=100)
+![](samples/b1.jpeg|width=100)
+![](samples/b2.jpeg|width=100)
 ## 8. More face ranking projects
 - https://github.com/fendouai/FaceRank
