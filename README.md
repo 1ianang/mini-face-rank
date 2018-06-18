@@ -24,24 +24,5 @@ python3 evaluate.py
 ```
 python3 predict.py
 ```
-## 7. Result
-```
-samples\a1.jpeg: 4.0690
-samples\a2.jpeg: 4.1459
-samples\a3.jpeg: 3.7766
-samples\a4.jpeg: 4.4120
-samples\a5.jpg: 4.9525
-samples\a6.jpg: 4.5757
-samples\a7.jpg: 3.9572
-samples\b1.jpg: 2.0240
-samples\b2.jpg: 2.1274
-samples\b3.jpg: 0.7316
-samples\b4.jpg: 2.2222
-```
-A sample of these images:
-![](samples/a1.jpeg| width=100)
-![](samples/a2.jpeg| width=100)
-![](samples/b1.jpeg| width=100)
-![](samples/b2.jpeg| width=100)
 ## 8. More face ranking projects
 - https://github.com/fendouai/FaceRank
